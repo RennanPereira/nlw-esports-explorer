@@ -4,7 +4,7 @@
 
 >Trilha Explorer
 
-Projeto construído do evento Next Level da Rocketseat
+Projeto construído no evento Next Level da Rocketseat
 
 [🔗 Clique aqui para acessar](https://rennanpereira.github.io/nlw-esports-explorer/)
 
